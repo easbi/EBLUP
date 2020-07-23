@@ -5,7 +5,7 @@ This is a project that relate to extension of sae methodology especially area le
 
 ```R
 data(milk)
-result <- eblupFH(formula = milk$yi~as.factor(milk$MajorArea), vardir = milk$SD, method = "REML")
+result <- EBLUP_FH(formula = milk$yi~as.factor(milk$MajorArea), vardir = milk$SD, method = "REML")
 ```
 
 if you want to obtain u cap (random area effect) for each area, use `u_Cap` list: 
