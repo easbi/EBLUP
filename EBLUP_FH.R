@@ -1,4 +1,4 @@
-EBLUP_FH <- function (formula, vardir, method = "REML", MAXITER = 100, PRECISION = 1e-04, 
+EBLUP_FH__ <- function (formula, vardir, method = "REML", MAXITER = 100, PRECISION = 1e-04, 
                        B = 0, data) 
 {
   result <- list(eblup = NA, gamma = NA,  u_Cap = NA, fit = list(method = method, convergence = TRUE, 
