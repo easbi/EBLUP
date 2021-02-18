@@ -1,5 +1,5 @@
 # EBLUP
-This is a project that relate to extension of sae methodology especially area level with non sampled using auxiliary information. EBLUP_FH seem like eblupFH in molina package sae, but i add some line for obtain random area effect (u) for another use.
+This is a project that relate to extension of sae methodology especially area level with non sampled using auxiliary information. EBLUP_FH seem like eblupFH in molina package sae, but i add some line for obtain random area effect (u) for another use. here
 
 ## Usage
 
